@@ -1,3 +1,3 @@
-# Simple IMC calculator
+### Simple IMC calculator
 
 Projeto voltado para estudos.
